@@ -1,3 +1,5 @@
+//Author Lorenzo Greco <lorenzo.rev@gmail.com>
+
 package main
 
 import (
